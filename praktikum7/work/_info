@@ -1,0 +1,107 @@
+m255
+K3
+13
+cModel Technology
+Z0 d\\fb4.fh\storage\students1\fb4pb08111\My Documents\VHDL\praktikum8
+T_opt
+V9NbVT8G@z6UAKk1Y?30mh2
+04 6 9 work mux4x1 verhalten 1
+=1-0024e807ed58-52a58d11-290-380
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1;51
+Z1 d\\fb4.fh\storage\students1\fb4pb08111\My Documents\VHDL\praktikum8
+Edemux4x1
+Z2 w1386583817
+Z3 d\\fb4.fh\storage\students1\fb4pb08111\My Documents\VHDL\praktikum7
+Z4 8//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/demux4x1.vhd
+Z5 F//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/demux4x1.vhd
+l0
+L1
+VJ[10VOAA=D4PVmaanNb4]0
+Z6 OE;C;10.1;51
+32
+Z7 !s108 1386583818.048000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/demux4x1.vhd|
+Z9 !s107 //fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/demux4x1.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 W1=>K`amdedYdRb^SFBF^1
+!i10b 1
+Averhalten
+DEx4 work 8 demux4x1 0 22 J[10VOAA=D4PVmaanNb4]0
+32
+!i10b 1
+l9
+L9
+V^o7;oQe;5ZRFGSEZO?2NC0
+R6
+R7
+R8
+R9
+R10
+R11
+!s100 z8<c8A`BjZzPLFn_0c=0B2
+Emux4x1
+Z12 w1386581214
+R3
+Z13 8//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/mux4x1.vhd
+Z14 F//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/mux4x1.vhd
+l0
+L1
+VMg1J`fNkN`WVI]ohCNBH[3
+R6
+32
+Z15 !s108 1386583240.590000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/mux4x1.vhd|
+Z17 !s107 //fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/mux4x1.vhd|
+R10
+R11
+!s100 <X6kn=87nnIQ>5=1Q7@@82
+!i10b 1
+Averhalten
+Z18 DEx4 work 6 mux4x1 0 22 Mg1J`fNkN`WVI]ohCNBH[3
+32
+l8
+L7
+VfM4zODm8IC0:1fJW]40B?0
+R6
+R15
+R16
+R17
+R10
+R11
+!i10b 1
+!s100 1_DDCo=fDFKJ`iWB4LJ>d0
+Etest
+Z19 w1386583220
+R3
+Z20 8//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/testbench1.vhd
+Z21 F//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/testbench1.vhd
+l0
+L4
+VoLGQB9Z>mZD_>EPP@TFEN2
+R6
+32
+Z22 !s108 1386583241.199000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/testbench1.vhd|
+Z24 !s107 //fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/testbench1.vhd|
+R10
+R11
+!s100 UXZ8;3m2Q42G4^IzGngm31
+!i10b 1
+Averhalten
+R18
+DEx4 work 4 test 0 22 oLGQB9Z>mZD_>EPP@TFEN2
+32
+l16
+L6
+VnfJR6]QgX>7HP^bUKkBkd3
+R6
+R22
+R23
+R24
+R10
+R11
+!i10b 1
+!s100 ocN;Ulcc6WjMJbU8kc5OS2

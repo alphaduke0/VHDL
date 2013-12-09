@@ -1,0 +1,8 @@
+force sim:/demux4x1/S 01; run;
+force sim:/demux4x1/S 10; run;
+force sim:/demux4x1/S 11; run;
+
+force sim:/demux4x1/E 1; run;
+force sim:/demux4x1/S 01; run;
+force sim:/demux4x1/S 10; run;
+force sim:/demux4x1/S 11; run;

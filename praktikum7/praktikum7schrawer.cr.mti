@@ -1,0 +1,20 @@
+{//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/mux4x1.vhd} {1 {vcom -work work -2002 -explicit -vopt {//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/mux4x1.vhd}
+Model Technology ModelSim SE vcom 10.1 Compiler 2011.12 Dec  5 2011
+-- Loading package STANDARD
+-- Compiling entity MUX4X1
+-- Compiling architecture VERHALTEN of MUX4X1
+
+} {} {}} {//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/demux4x1.vhd} {1 {vcom -work work -2002 -explicit -vopt {//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/demux4x1.vhd}
+Model Technology ModelSim SE vcom 10.1 Compiler 2011.12 Dec  5 2011
+-- Loading package STANDARD
+-- Compiling entity DEMUX4X1
+-- Compiling architecture VERHALTEN of DEMUX4X1
+
+} {} {}} {//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/testbench1.vhd} {1 {vcom -work work -2002 -explicit -vopt {//fb4.fh/storage/students1/fb4pb08111/My Documents/VHDL/praktikum7/testbench1.vhd}
+Model Technology ModelSim SE vcom 10.1 Compiler 2011.12 Dec  5 2011
+-- Loading package STANDARD
+-- Compiling entity TEST
+-- Compiling architecture VERHALTEN of TEST
+-- Loading entity MUX4X1
+
+} {} {}}
